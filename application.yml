@@ -7,5 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/toto2001/spring-cloud-config
-          search-path:
+          search-paths:
           - '*service'
